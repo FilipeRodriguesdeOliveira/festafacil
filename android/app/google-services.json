@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "937452478180",
+    "project_id": "festafacil-s8won",
+    "storage_bucket": "festafacil-s8won.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937452478180:android:0a4f65a1177a9508d1d6f1",
+        "android_client_info": {
+          "package_name": "com.mycompany.festafacil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937452478180-r0jm80v8t5hmmvgbmgsel69okdc8snn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANWFl-j3b1ZG3FnoV9EaUzJKdpaTNt5SA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937452478180-r0jm80v8t5hmmvgbmgsel69okdc8snn7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "937452478180-r2m69rj8k8j1f53nluk4a3gl8o462rnh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.festafacil"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

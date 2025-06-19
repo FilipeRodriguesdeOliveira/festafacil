@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>937452478180-r2m69rj8k8j1f53nluk4a3gl8o462rnh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.937452478180-r2m69rj8k8j1f53nluk4a3gl8o462rnh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBN7TJhL1caInPDpxwxZK6hzKOB9xwZgGU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>937452478180</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.festafacil</string>
+	<key>PROJECT_ID</key>
+	<string>festafacil-s8won</string>
+	<key>STORAGE_BUCKET</key>
+	<string>festafacil-s8won.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:937452478180:ios:bf5f648854463a95d1d6f1</string>
+</dict>
+</plist>
